@@ -1,2 +1,3 @@
-# leetcode
-LeetCode's Problem Solutions
+# LeetCode
+
+### LeetCode Algorithm Solutions
