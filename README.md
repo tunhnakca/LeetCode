@@ -5,6 +5,7 @@
 | #    | Title                                             | Solution                    | Difficulty |
 | ---- | ------------------------------------------------- | --------------------------- | ---------- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/medianOfTwoSortedArrays.js) | Hard 
+| 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/3Sum.js) | Medium 
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/searchInsertPosition.js) | Easy 
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/groupAnagrams.js) | Medium  
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/longestConsecutiveSequence.js) | Medium  
