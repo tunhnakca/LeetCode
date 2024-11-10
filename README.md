@@ -14,6 +14,7 @@
 | 74 | [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/search2DMatrix.js) | Medium
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/longestConsecutiveSequence.js) | Medium 
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/linkedListCycle.js) | Easy
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/lRUCache.js) | Medium
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/evaluateReversePolishNotation.js) | Medium 
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/findMinimumInRotatedSortedArray.js) | Medium
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/minStack.js) | Medium  
