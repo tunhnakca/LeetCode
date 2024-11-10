@@ -4,6 +4,7 @@
 
 | #    | Title                                             | Solution                    | Difficulty |
 | ---- | ------------------------------------------------- | --------------------------- | ---------- |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/addTwoNumbers.js) | Medium
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/medianOfTwoSortedArrays.js) | Hard 
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/containerWithMostWater.js) | Medium 
 | 15 | [3Sum](https://leetcode.com/problems/3sum/description/) | [JS](https://github.com/tunhnakca/leetcode/blob/main/algorithms/javascript/3Sum.js) | Medium 
